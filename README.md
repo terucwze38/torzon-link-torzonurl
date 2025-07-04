@@ -40,4 +40,6 @@ The **TorZon Market** is a hub for various goods. Accessing it requires the corr
 
 This guide is purely educational. We do not condone illegal activities. Comply with laws and regulations.
 
-Update:  Thursday 26 June 2025
+
+
+Update:  04 July 2025
