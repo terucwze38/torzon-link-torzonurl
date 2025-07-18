@@ -46,4 +46,6 @@ This guide is purely educational. We do not condone illegal activities. Comply w
 
 
 
-Update:  14 July 2025 The link is operational once more.
+
+
+Update: url is now accessible
